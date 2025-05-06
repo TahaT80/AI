@@ -53,16 +53,7 @@ Install requirements:
 bash
 pip install numpy pandas matplotlib scikit-learn
 
-📁 Project Structure
-├── datasets/          # Sample datasets
-├── numpy-basics/      # NumPy tutorials
-├── pandas-tutorials/  # Pandas tutorials
-├── visualization/     # Visualization examples
-├── supervised/        # Supervised algorithms
-├── unsupervised/      # Unsupervised algorithms
-├── requirements.txt   # Required libraries
-└── README.md          # This file
-📝 Prerequisites
+
 Python 3.8+
 
 pip (for package installation)
