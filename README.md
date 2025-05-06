@@ -45,22 +45,30 @@ Follow these steps to set up and run the repository:
 git clone https://github.com/TahaT80/AI.git
 ```
 
-## Create and Activate a Virtual Environment
-On Linux/Mac:
+### Create and Activate a Virtual Environment
+
+**On Linux/Mac:**
 ```bash
 python -m venv venv
 source venv/bin/activate
 ```
-On Windows:
+
+**On Windows:**
 ```bash
 python -m venv venv
-.\venv\Scripts\activate
+.env\Scriptsctivate
 ```
 
-## Install Required Libraries
+### Install Required Libraries
 Ensure you are using Python 3.8 or higher. Then, install the following libraries:
 ```bash
 pip install numpy pandas matplotlib scikit-learn
+```
+
+### Run the Examples
+Launch Jupyter Notebook to execute the notebook examples:
+```bash
+jupyter notebook
 ```
 
 ## Contributing
