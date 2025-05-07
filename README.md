@@ -68,7 +68,7 @@ pip install numpy pandas matplotlib scikit-learn
 ### Run the Examples
 Launch Jupyter Notebook to execute the notebook examples:
 ```bash
-jupyter notebook
+jupyter notebook vsCode
 ```
 
 ## Contributing
