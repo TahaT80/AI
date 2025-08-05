@@ -1,0 +1,6 @@
+{
+    "cSpell.enabledSchemes": {
+        "vscode-notebook-cell": false
+    },
+    "python.analysis.autoImportCompletions": true
+}
